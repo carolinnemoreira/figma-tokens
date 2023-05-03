@@ -24,7 +24,7 @@ jobs:
           node-version: 18
 
           - name: Run prettier
-        run: |
+        run:
             npm ci
             npm run prettier-check
 

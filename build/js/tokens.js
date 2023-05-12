@@ -1,15 +1,16 @@
 /**
  * Do not edit directly
- * Generated on Tue, 18 Apr 2023 01:04:10 GMT
+ * Generated on Fri, 12 May 2023 22:07:04 GMT
  */
 
 module.exports = {
-  "ColorBlack": "#000000",
-  "ColorGray100": "#e1e1e6",
-  "ColorGray200": "#c4c4cc",
-  "ColorGray400": "#7c7c8a",
-  "ColorGray800": "#202024",
+  "Sizes2": 8,
+  "Sizes4": 16,
+  "Sizes8": 32,
+  "ColorWhite": "#ffffff",
+  "ColorGray200": "#c1c1c4",
+  "ColorGray500": "#50505c",
+  "ColorGray800": "#1c1c1f",
   "ColorGray900": "#121214",
-  "ColorCyan300": "#9be1fb",
-  "ColorCyan500": "#81d8f7"
+  "ColorPurple500": "#8257e6"
 };
